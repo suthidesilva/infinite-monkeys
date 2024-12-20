@@ -1,4 +1,4 @@
-<img = https://img.freepik.com/premium-photo/monkey-is-sitting-table-using-laptop-monkey-is-looking-screen-typing-keyboard_14117-495574.jpg>
+<img src="https://img.freepik.com/premium-photo/monkey-is-sitting-table-using-laptop-monkey-is-looking-screen-typing-keyboard_14117-495574.jpg" alt="monkey typing"/>
 
 # infinite-monkeys
 This project simulates the "infinite monkey theorem" using Python. The theorem suggests that a monkey hitting keys at random on a typewriter for an infinite amount of time could almost surely type a given text, such as a sentence from Shakespeare. In this project, we replace the monkey with a Python function to see how long it would take to generate a specific sentence: "methinks it is like a weasel."
